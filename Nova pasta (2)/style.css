@@ -1,0 +1,97 @@
+.icone{
+    max-width: 100px;
+  
+}
+.img2{
+    width: 600px;
+    margin: 0px auto;
+    display: block;
+    
+}
+h2,p{
+    text-align: center;
+    color: aliceblue;
+}
+h1{ 
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+.header{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+}
+.aranha{
+    text-align: center;
+}
+.filme1{
+    width: 400px;
+ margin: 0 auto;
+  display: block;
+}
+.titulo1{
+    color: aliceblue;
+    text-align: center;
+
+}
+.filmelista1{
+    text-align:left ;
+    
+}
+.filmelista{
+    text-align: left;
+    max-width: 600px;
+}
+.lupa{
+    width: 30px;
+    margin:0px;
+}
+button{
+    background-color: rgb(187, 18, 18);
+    cursor: pointer;
+    margin: 4px 9px;
+    height: 40px;
+}
+button:hover{
+    background-color: red; 
+    
+}
+input{
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px;
+    height: 10px;
+}
+body{
+    background-position: center;
+    background-image: url(xtrafondos.com.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0 auto;
+}
+li{
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: start;
+}
+
+img{
+    width: 400px;
+}
+ .imagem{
+    border-radius: 50%;
+ }
+.p1{
+    max-width: 9920px;
+    text-align: center;
+    margin: 0 auto;
+}
+.texto{
+    font-size: 60px;
+    text-align: center;
+    margin: 0 auto;
+}
